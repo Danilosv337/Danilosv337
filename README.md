@@ -7,9 +7,10 @@
   
 <div>
   <p>Áreas De Desenvolvimento</p>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+<img height="50em" src="https://icongr.am/devicon/css3-original.svg?size=78&color=1100ff)" /> 
 <img height="50em" src="https://icongr.am/devicon/cplusplus-original.svg?size=78&color=ff0000" />  
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 <div>
   <p> Shellscript </p>
